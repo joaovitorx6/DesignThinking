@@ -1,0 +1,98 @@
+Info: CapabilityPattern:Imersao: 264 mini seconds publishing element
+Info: CapabilityPattern:Imersao: 85 mini seconds publishing process specific layout data
+Info: Task:compreender_o_problema: 55 mini seconds publishing element
+Info: TaskDescriptor:compreender_o_problema: 15 mini seconds publishing element
+Info: Role:equipe_design: 360 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 5 mini seconds publishing element
+Info: CapabilityPattern:Ideacao: 120 mini seconds publishing element
+Info: CapabilityPattern:Ideacao: 27 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Prototipacao: 109 mini seconds publishing element
+Info: CapabilityPattern:Prototipacao: 21 mini seconds publishing process specific layout data
+Info: CapabilityPattern:Desenvolvimento: 101 mini seconds publishing element
+Info: CapabilityPattern:Desenvolvimento: 29 mini seconds publishing process specific layout data
+Info: DeliveryProcess:DesignThinking: 449 mini seconds publishing element
+Info: DeliveryProcess:DesignThinking: 1987 mini seconds publishing process specific layout data
+Info: Phase:Desenvolvimento: 121 mini seconds publishing element
+Info: Activity:Construir solucao: 278 mini seconds publishing element
+Info: Task:desenvolver_a_solucao: 53 mini seconds publishing element
+Info: TaskDescriptor:desenvolver_a_solucao: 11 mini seconds publishing element
+Info: Role:designer: 119 mini seconds publishing element
+Info: RoleDescriptor:designer: 6 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 7 mini seconds publishing element
+Info: Artifact:prototipo: 44 mini seconds publishing element
+Info: WorkProductDescriptor:prototipo: 9 mini seconds publishing element
+Info: Artifact:produto: 18 mini seconds publishing element
+Info: WorkProductDescriptor:produto: 6 mini seconds publishing element
+Info: Phase:Ideacao: 279 mini seconds publishing element
+Info: Activity:Selecionar a ideia: 224 mini seconds publishing element
+Info: Task:selecionar_ideias: 54 mini seconds publishing element
+Info: TaskDescriptor:selecionar_ideias: 18 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 13 mini seconds publishing element
+Info: Artifact:mural_de_possibilidades: 38 mini seconds publishing element
+Info: WorkProductDescriptor:mural_de_possibilidades: 7 mini seconds publishing element
+Info: Artifact:ideia: 24 mini seconds publishing element
+Info: WorkProductDescriptor:ideia: 5 mini seconds publishing element
+Info: Task:brainstorming: 25 mini seconds publishing element
+Info: TaskDescriptor:brainstorming: 8 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 5 mini seconds publishing element
+Info: Artifact:documento_do_problema: 19 mini seconds publishing element
+Info: WorkProductDescriptor:documento_do_problema: 7 mini seconds publishing element
+Info: WorkProductDescriptor:mural_de_possibilidades: 6 mini seconds publishing element
+Info: Activity:Apresentacao: 270 mini seconds publishing element
+Info: Task:apresentar_as_ideias: 48 mini seconds publishing element
+Info: TaskDescriptor:apresentar_as_ideias: 22 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 6 mini seconds publishing element
+Info: WorkProductDescriptor:mural_de_possibilidades: 13 mini seconds publishing element
+Info: Phase:Imersao: 285 mini seconds publishing element
+Info: Activity:Empatizar : 238 mini seconds publishing element
+Info: Task:coleta_de_dados: 24 mini seconds publishing element
+Info: TaskDescriptor:coleta_de_dados: 18 mini seconds publishing element
+Info: Role:cliente: 85 mini seconds publishing element
+Info: RoleDescriptor:cliente: 4 mini seconds publishing element
+Info: RoleDescriptor:designer: 5 mini seconds publishing element
+Info: Activity:Compreensão: 245 mini seconds publishing element
+Info: TaskDescriptor:compreender_o_problema: 6 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 5 mini seconds publishing element
+Info: Task:definir_o_problema: 21 mini seconds publishing element
+Info: TaskDescriptor:definir_o_problema: 6 mini seconds publishing element
+Info: RoleDescriptor:designer: 9 mini seconds publishing element
+Info: Activity:Identificar requisitos: 285 mini seconds publishing element
+Info: Task:levantar_requisitos: 30 mini seconds publishing element
+Info: TaskDescriptor:levantar_requisitos: 8 mini seconds publishing element
+Info: RoleDescriptor:designer: 6 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 6 mini seconds publishing element
+Info: WorkProductDescriptor:documento_do_problema: 6 mini seconds publishing element
+Info: Phase:Prototipacao: 400 mini seconds publishing element
+Info: Activity:Prototipar a solucao: 375 mini seconds publishing element
+Info: Task:prototipar_a_solucao: 28 mini seconds publishing element
+Info: TaskDescriptor:prototipar_a_solucao: 13 mini seconds publishing element
+Info: RoleDescriptor:designer: 15 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 6 mini seconds publishing element
+Info: WorkProductDescriptor:ideia: 7 mini seconds publishing element
+Info: WorkProductDescriptor:prototipo: 7 mini seconds publishing element
+Info: Phase:Implantacao: 151 mini seconds publishing element
+Info: Activity:Implantar o produto: 293 mini seconds publishing element
+Info: Task:implantar_o_produto: 25 mini seconds publishing element
+Info: TaskDescriptor:implantar_o_produto: 12 mini seconds publishing element
+Info: RoleDescriptor:designer: 9 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 11 mini seconds publishing element
+Info: WorkProductDescriptor:produto: 7 mini seconds publishing element
+Info: Activity:Divulgacao do produto: 121 mini seconds publishing element
+Info: Task:divulgar_o_produto: 21 mini seconds publishing element
+Info: TaskDescriptor:divulgar_o_produto: 6 mini seconds publishing element
+Info: Role:equipe_de_marketing: 73 mini seconds publishing element
+Info: RoleDescriptor:equipe_de_marketing: 9 mini seconds publishing element
+Info: Phase:Testar: 164 mini seconds publishing element
+Info: Activity:Testar a solucao: 238 mini seconds publishing element
+Info: Task:testar_a_solucao: 40 mini seconds publishing element
+Info: TaskDescriptor:testar_a_solucao: 11 mini seconds publishing element
+Info: RoleDescriptor:cliente: 9 mini seconds publishing element
+Info: RoleDescriptor:equipe_design: 12 mini seconds publishing element
+Info: WorkProductDescriptor:produto: 8 mini seconds publishing element
+Info: CustomCategory:design_thinking: 27 mini seconds publishing element
+Info: CustomCategory:atividades: 25 mini seconds publishing element
+Info: CustomCategory:papeis: 18 mini seconds publishing element
+Info: CustomCategory:tarefas: 17 mini seconds publishing element
+Info: CustomCategory:artefatos: 10 mini seconds publishing element
+Info: CustomCategory:ciclo_de_vida: 11 mini seconds publishing element
+Info: : Publishing time: 0 minutes 11 seconds
